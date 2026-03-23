@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+scikit-learn 
+astropy
+astroML
+tqdm
+ipywidgets
+corner
