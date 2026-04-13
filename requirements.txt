@@ -7,3 +7,5 @@ astroML
 tqdm
 ipywidgets
 corner
+emcee
+pymc
