@@ -9,3 +9,4 @@ ipywidgets
 corner
 emcee
 pymc
+dynesty
